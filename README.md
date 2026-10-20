@@ -1,7 +1,7 @@
-                    Python Calculator
-A simple calculator made using Python and match-case statement
+                    -:Python Calculator:-
+A simple calculator made using Python and match-case statement:-
 
-    Features
+    -:Features:-
     
 • Addition
 
@@ -12,5 +12,5 @@ A simple calculator made using Python and match-case statement
 • Division
 
 
-            Author
-            Bhaskar Sharma
+Author:-
+Bhaskar Sharma.
