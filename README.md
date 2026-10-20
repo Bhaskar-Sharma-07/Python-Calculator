@@ -1,7 +1,7 @@
-                    -:Python Calculator:-
+                                -:Python Calculator:-
 A simple calculator made using Python and match-case statement:-
 
-    -:Features:-
+                                    -:Features:-
     
 • Addition
 
