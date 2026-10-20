@@ -1,6 +1,8 @@
                     Python Calculator
-A simple calculator made using Python and match-case statement.
+A simple calculator made using Python and match-case statement
+
     Features
+    
 • Addition
 
 • Subtraction
